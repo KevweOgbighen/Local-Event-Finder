@@ -6,3 +6,8 @@ Team Members: Md Hasan, Francisco Vazquez, Kevwe Ogbighen, Luna Da Silva, Prakri
 
 ### Description of How to Compile and Run Your Code 
 
+1. Ensure you have Java Database Connector (JDBC) and Node.js installed on your machine.
+2. Make sure your MySQL server is running and set up your database.
+3. Compile the Backend(Java) and Frontend(Javascript,HTML,CSS) files.
+4. Start the Node.js server.
+5. Run your code with a web browser. 
