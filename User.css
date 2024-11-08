@@ -1,0 +1,14 @@
+.event-button {
+    display: inline-block;
+    background-color: #2980b9;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .event-button:hover {
+    background-color: #3498db;
+  }
