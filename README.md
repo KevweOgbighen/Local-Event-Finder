@@ -1,6 +1,6 @@
 # Local Event Finder
 
-Project Title: Local Event Finder Website
+Project Title: GoLocal
 
 Team Members: Md Hasan, Francisco Vazquez, Kevwe Ogbighen, Luna Da Silva, Prakriti Aryal     
 
